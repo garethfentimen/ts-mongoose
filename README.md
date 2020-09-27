@@ -2,7 +2,8 @@
 
 Automatically infer TypeScript interfaces from mongoose schemas.
 
-[![Build Status](https://travis-ci.org/BetterCallSky/ts-mongoose.svg?branch=master)](https://travis-ci.org/BetterCallSky/ts-mongoose) [![npm module](https://badge.fury.io/js/ts-mongoose.svg)](https://www.npmjs.org/package/ts-mongoose)
+No Guarantees !!
+(https://badge.fury.io/js/ts-mongoose.svg)](https://www.npmjs.org/package/ts-mongoose-22)
 
 ## Installation
 
