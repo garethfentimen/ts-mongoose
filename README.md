@@ -2,7 +2,7 @@
 
 Automatically infer TypeScript interfaces from mongoose schemas.
 
-No Guarantees !! pacakage here|https://www.npmjs.com/package/ts-mongoose-22
+No Guarantees !! https://www.npmjs.com/package/ts-mongoose-22
 
 ## Installation
 
